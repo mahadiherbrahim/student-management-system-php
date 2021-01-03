@@ -1,0 +1,20 @@
+
+.down {
+    background-color: #337ab7;
+    padding: 20px 0;
+    text-align: center;
+}
+.content{
+    min-height: 570px;;
+}
+.down p{
+    margin: 0;
+    color: white;
+}
+.input_error{
+    color:red;
+    font-style: italic;
+    font-weight: 700;
+}
+
+
